@@ -2,17 +2,17 @@ import { FC } from "react"
 import {Avatar, Flex, HStack, Text} from "@chakra-ui/react"
 import { BsArrowUp } from 'react-icons/bs'
 import { Player } from '@lottiefiles/react-lottie-player';
-import Behance from '../assets/lotties/Behance.json'
-import Dribbble from '../assets/lotties/Dribbble.json'
-import Twitter from '../assets/lotties/Twitter.json'
-import LinkedIn from '../assets/lotties/Linkedin.json'
+import Behance from '../assets/lotties/socials/Behance.json'
+import Dribbble from '../assets/lotties/socials/Dribbble.json'
+import Twitter from '../assets/lotties/socials/Twitter.json'
+import LinkedIn from '../assets/lotties/socials/Linkedin.json'
 
 
 export const BottomNavBar: FC = () => {
 
     return (
-        <Flex alignItems={"center"} justifyContent="space-around" >
-            <Text fontWeight={600} >www.raheem.design</Text>
+        <Flex alignItems={"center"} justifyContent="space-between" >
+            <Text fontWeight={600} fontSize={16} >www.raheem.design</Text>
 
             <HStack justifyContent={"center"}>
                 <Player autoplay loop src={Dribbble} style={{ height: '100px', width: '100px', marginRight: '1px' }} ></Player>

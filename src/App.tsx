@@ -1,10 +1,9 @@
-import React from 'react';
-import logo from './logo.svg';
-import { BottomNavBar } from './Components/BottomNavBar';
+
+import { Home } from './Home/Home';
 
 function App() {
   return (
-    <BottomNavBar></BottomNavBar>
+    <Home></Home>
   );
 }
 

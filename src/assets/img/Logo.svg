@@ -1,0 +1,22 @@
+<svg id="Logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="73" height="99" viewBox="0 0 73 99">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_247" data-name="Ellipse 247" cx="2" cy="2" r="2" transform="translate(161 73)" fill="#fdfdfd"/>
+    </clipPath>
+  </defs>
+  <g id="Rectangle_1678" data-name="Rectangle 1678" fill="#292626" stroke="#707070" stroke-width="1">
+    <rect width="73" height="99" stroke="none"/>
+    <rect x="0.5" y="0.5" width="72" height="98" fill="none"/>
+  </g>
+  <g id="Group_1237" data-name="Group 1237" transform="translate(-100)">
+    <text id="Raheem" transform="translate(109 77)" fill="#fdfdfd" font-size="14" font-family="Mojita"><tspan x="0" y="0">Raheem</tspan></text>
+    <g id="Mask_Group_4" data-name="Mask Group 4" clip-path="url(#clip-path)">
+      <g id="Group_1236" data-name="Group 1236">
+        <line id="Line_8" data-name="Line 8" x2="4" transform="translate(161 73.5)" fill="none" stroke="#fdfdfd" stroke-width="0.3"/>
+        <line id="Line_9" data-name="Line 9" x2="4" transform="translate(161 74.5)" fill="none" stroke="#fdfdfd" stroke-width="0.3"/>
+        <line id="Line_10" data-name="Line 10" x2="4" transform="translate(161 75.5)" fill="none" stroke="#fdfdfd" stroke-width="0.3"/>
+        <line id="Line_11" data-name="Line 11" x2="4" transform="translate(161 76.5)" fill="none" stroke="#fdfdfd" stroke-width="0.3"/>
+      </g>
+    </g>
+  </g>
+</svg>
