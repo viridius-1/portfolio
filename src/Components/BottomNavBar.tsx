@@ -12,11 +12,11 @@ export const BottomNavBar: FC = () => {
 
     return (
         <Flex alignItems={"center"} justifyContent="space-between" >
-            <Text fontWeight={600} fontSize={16} >www.raheem.design</Text>
+            <Text fontWeight={600}  >www.raheem.design</Text>
 
             <HStack justifyContent={"center"}>
                 <Player autoplay loop src={Dribbble} style={{ height: '100px', width: '100px', marginRight: '1px' }} ></Player>
-                <HStack spacing={10} fontSize={14} paddingRight={150} >
+                <HStack spacing={10} paddingRight={150} >
                     <Player autoplay loop src={Behance} style={{ height: '30px', width: '30px' }}></Player>
                     <Player autoplay loop src={Twitter} style={{ height: '20px', width: '20px' }}></Player>
                     <Player autoplay loop src={LinkedIn} style={{ height: '20px', width: '20px' }}></Player>

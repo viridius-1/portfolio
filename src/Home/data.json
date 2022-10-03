@@ -1,0 +1,18 @@
+
+[
+    {
+        "name": "Mustapha Salam",
+        "role": "Software engineer",
+        "company": "Next, UK",
+        "note": "Raheem is an incredibly talented individual. I had the pleasure of working with him in 2020 and his outstanding attention to detail, eye-catching designs and resilient behaviour in giving out his best work is priceless.",
+        "img": "musty.png"
+    },
+    
+    {
+        "name": "Basit Taiwo",
+        "role": "Back-end engineer",
+        "company": "Taxfix, Spain",
+        "note": "Raheem is an incredibly talented individual. I had the pleasure of working with him in 2020 and his outstanding attention to detail, eye-catching designs and resilient behaviour in giving out his best work is priceless.",
+        "img": "bash.png"
+    }
+]
