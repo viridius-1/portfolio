@@ -51,7 +51,7 @@ export const Home: FC = () => {
     const fadeAnimation = `${fade} 2s linear`;
 
     useEffect(() => {
-
+        setAvatarState(testimonialDatas);
     }, [])
 
     const toggleTracksDisplay = (isMouseEnter: boolean) => {
@@ -94,7 +94,7 @@ export const Home: FC = () => {
             
             setcurrentTestimonialState(initial => --initial)
 
-            if (curr == 0) setPrevState("none")
+            if (curr === 0) setPrevState("none")
 
             setNextState("block")  
         }        
